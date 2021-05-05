@@ -10,7 +10,9 @@ Este repositorio contiene parte del trabajo realizado por José Luis Rivas Caldu
 
 En concreto se desarrolla la fase de análisis y exploración de los datos (*EDA*) objeto del trabajo anteriormente mencionado.
 
-Cabe destacar que la base de datos (*Database*) *pax_all_agreements_data* ha sido elaborada por la profesora Christine Bell y su equipo de la Universidad de Edimburgo y que su uso se encuentra regido por los siguientes términos contenidos en el enlace de a continuación: https://www.peaceagreements.org/files/Terms_of_Use.pdf
+Como conjunto de datos principal se ha seleccionado el seguimiento que publica la ECDC (European Centre for Disease Prevention and Control) sobre la evolución de la vacunación contra el COVID-19 en la Unión Europea (UE) y en la Espacio Económica Europea (EEE).
+
+La política de derechos de autor del conjunto de datos es compatible con la licencia CC BY 4.0. Por la cual se pueden hacer citas de dicho material sin permiso previo, siempre que se cite siempre la fuente. Para más información en el siguiente link se describe los términos de la licencia de uso: https://www.ecdc.europa.eu/en/copyright
 
 ## Fichero de codigo
 * **scr/PAX_EDA_database.Rmd:** Markdown con el codigo en R.
@@ -25,6 +27,3 @@ Cabe destacar que la base de datos (*Database*) *pax_all_agreements_data* ha sid
 
 ## Ficheros con información adicional 
 * **doc/**: Esta carpeta contiene información adicional para una mayor comprensión de la base de datos objeto de estudio.
-
-## Cita 
-Bell, Christine, Sanja Badanjak, Juline Beaujouan, Tim Epple, Robert Forster, Astrid Jamar, Sean Molloy, Kevin McNicholl, Kathryn Nash, Jan Pospisil, Robert Wilson, and Laura Wise (2020). PA-X Peace Agreements Database and Dataset, Version 4. www.peaceagreements.org
