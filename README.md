@@ -15,14 +15,13 @@ Como conjunto de datos principal se ha seleccionado el seguimiento que publica l
 La política de derechos de autor del conjunto de datos es compatible con la licencia CC BY 4.0. Por la cual se pueden hacer citas de dicho material sin permiso previo, siempre que se cite siempre la fuente. Para más información en el siguiente link se describe los términos de la licencia de uso: https://www.ecdc.europa.eu/en/copyright
 
 ## Fichero de codigo
-* **scr/PAX_EDA_database.Rmd:** Markdown con el codigo en R.
+* **scr/COVID19_vaccine_EU_EEA.Rmd:** Markdown con el codigo en R.
 
 ## Ficheros con el resultado del análisis
-* **outcome/PAX_EDA_database.pdf:** Fichero PDF con el libro de R Markdown desarrollado
-* **outcome/pax_all_agreements_data_proc.xlsx:** Fichero excel con el resultado del análisis y fuente de datos para el cuadro de mando a desarrollar. 
+* **outcome/COVID19_vaccine_EU_EEA.pdf:** Fichero PDF con el libro de R Markdown desarrollado
 
 ## Ficheros con los inputs del análisis
-* **data/pax_all_agreements_data.xlsx:** Fichero excel con la base de datos.  
+* **data/VaccineTracker-03-2021.xlsx:** Fichero excel con la base de datos.  
 * **data/paisesISO.csv:** Fichero en csv información de los paises del mundo y su codificación ISO.
 
 ## Ficheros con información adicional 
